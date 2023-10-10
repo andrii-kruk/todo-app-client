@@ -26,7 +26,7 @@ const LoginForm = () => {
           </div>
           <button class="btn btn-primary">Log In</button>
           <div class="form-group">
-            <a href="#">Forgot your password?</a>
+            <a href="/">Forgot your password?</a>
           </div>
           <div class="form-group">
             <p>You still don't have an account?</p>

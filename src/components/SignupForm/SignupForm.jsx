@@ -52,9 +52,9 @@ const RegisterForm = () => {
       </form>
       <div class="register-form">
         <p>Already have an account?</p>
-        <a class="login-link" href="/login">
+        <Link class="login-link" href="/login">
           Log In
-        </a>
+        </Link>
       </div>
     </>
   );
