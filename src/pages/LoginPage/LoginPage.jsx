@@ -1,5 +1,11 @@
+import LoginForm from 'components/SigninForm/SigninForm';
+
 const LoginPage = () => {
-  return <section>Login Page</section> ;
+  return (
+    <section>
+      <LoginForm />
+    </section>
+  );
 };
 
 export default LoginPage;

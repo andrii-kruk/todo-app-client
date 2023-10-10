@@ -2,23 +2,38 @@ import { NavLink } from 'react-router-dom';
 
 const Header = () => {
   return (
-    <header>
+    <header class="main-header">
       <nav>
-        <ul>
-          <li>
-            <NavLink to="/">Home</NavLink>
+        <ul class="nav-list">
+          <li class="nav-item">
+            <NavLink to="/" class="nav-link">
+              Home
+            </NavLink>
           </li>
-          <li>
-            <NavLink to="todos">Todos</NavLink>
+          <li class="nav-item">
+            <NavLink to="todos" class="nav-link">
+              Todos
+            </NavLink>
           </li>
-          <li>
-            <NavLink to="login">Login</NavLink>
+          <li class="nav-item">
+            <NavLink to="about" class="nav-link">
+              About
+            </NavLink>
           </li>
-          <li>
-            <NavLink to="register">Register</NavLink>
+          <li class="nav-item">
+            <NavLink to="profile" class="nav-link">
+              Profile
+            </NavLink>
           </li>
-          <li>
-            <NavLink to="profile">Profile</NavLink>
+          <li class="nav-item">
+            <NavLink to="login" class="nav-link">
+              Sign In
+            </NavLink>
+          </li>
+          <li class="nav-item">
+            <NavLink to="register" class="nav-link">
+              Sign Up
+            </NavLink>
           </li>
         </ul>
       </nav>
