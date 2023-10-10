@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktodo_app_client=self.webpackChunktodo_app_client||[]).push([[409],{409:function(e,n,t){t.r(n);var c=t(184);n.default=function(){return(0,c.jsx)("section",{children:"Profile"})}}}]);
-//# sourceMappingURL=409.3b9c753c.chunk.js.map

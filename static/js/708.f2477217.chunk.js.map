@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/708.f2477217.chunk.js","mappings":"0IAIA,UAJiB,WACf,OAAO,0CACR,C","sources":["pages/TodoPage/TodoPage.jsx"],"sourcesContent":["const TodoPage = () => {\n  return <section>Todo Page</section>;\n};\n\nexport default TodoPage;\n"],"names":[],"sourceRoot":""}

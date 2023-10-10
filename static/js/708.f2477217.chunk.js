@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktodo_app_client=self.webpackChunktodo_app_client||[]).push([[708],{708:function(e,n,t){t.r(n);var c=t(184);n.default=function(){return(0,c.jsx)("section",{children:"Todo Page"})}}}]);
-//# sourceMappingURL=708.f2477217.chunk.js.map
