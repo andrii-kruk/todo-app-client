@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktodo_app_client=self.webpackChunktodo_app_client||[]).push([[589],{589:function(e,t,n){n.r(t);var c=n(184);t.default=function(){return(0,c.jsx)("section",{children:"Register Page"})}}}]);
+//# sourceMappingURL=589.17bada57.chunk.js.map
